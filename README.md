@@ -3,7 +3,7 @@
 This competition is hosted on Zindi, a machine learning platform for data science challenges.  
 Here is the link to the competition: [Uber Nairobi Ambulance Perambulation Challenge 🌾 - $6 000](https://zindi.africa/competitions/uber-nairobi-ambulance-perambulation-challenge/data)
 
-Ranked in the 13 out of 113
+Ranked in the TOP 30%
 ---
 
 **Competition**: Zindi – Ambulance Deployment Optimization
